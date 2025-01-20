@@ -30,6 +30,7 @@ Para instalar as dependências, basta executar o comando abaixo:
 
 ```bash
 npm install
+npm install -g cypress
 ```
 
 ---
